@@ -1,7 +1,7 @@
 {
     "targets": [
         {
-            "target_name": "multihashing",
+            "target_name": "minerhash",
             "sources": [
                 "src/multihashing.cc",
                 "src/bcrypt.c",
