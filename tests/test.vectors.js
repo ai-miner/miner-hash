@@ -1,6 +1,6 @@
 const fs = require('fs')
 const assert = require('assert')
-const multiHashing = require('bindings')('multihashing.node')
+const multiHashing = require('bindings')('minerhash.node')
 
 // get all algorithms.
 var algos = [];
